@@ -1,4 +1,4 @@
-# image‐to‐text & PDF rasterization
+# PDF→image & OCR
 poppler-utils
 tesseract-ocr
 libleptonica-dev
@@ -8,6 +8,9 @@ pkg-config
 # OpenCV native libs
 libgl1-mesa-glx
 libglib2.0-0
+libsm6
+libxext6
+libxrender1
 
-# Pandoc for .tex → .docx
+# Pandoc for DOCX conversion
 pandoc
