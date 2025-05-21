@@ -1,0 +1,13 @@
+# image‐to‐text & PDF rasterization
+poppler-utils
+tesseract-ocr
+libleptonica-dev
+libtesseract-dev
+pkg-config
+
+# OpenCV native libs
+libgl1-mesa-glx
+libglib2.0-0
+
+# Pandoc for .tex → .docx
+pandoc
