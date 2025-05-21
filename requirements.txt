@@ -1,0 +1,9 @@
+numpy
+opencv-python
+pytesseract
+pdf2image
+pillow
+azure-core
+azure-ai-documentintelligence
+langchain-openai
+streamlit

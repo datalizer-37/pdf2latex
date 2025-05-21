@@ -1,0 +1,14 @@
+1)First viist here for pystesseract
+
+https://github.com/UB-Mannheim/tesseract/wiki
+Then from history select latest version.
+
+2) download pdflatex from here.
+https://miktex.org/download
+
+
+3) for linux https://www.tug.org/texlive/quickinstall.html
+
+
+**IMPORTANT**
+For both windows and linux you have add to path(tex live/miketex)
