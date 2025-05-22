@@ -46,4 +46,4 @@ COPY . /app
 
 EXPOSE 8501
 
-ENTRYPOINT ["streamlit","run","pdf_pipline.py","--server.port=8501","--server.address=0.0.0.0"]
+ENTRYPOINT ["streamlit","run","pdf_pipeline.py","--server.port=8501","--server.address=0.0.0.0"]
